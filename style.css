@@ -6,6 +6,8 @@ body {
 
 nav {
 	position: fixed;
+	background: #5a91aa;
+	color: fff;
 	top: 0;
 	left: 0;
 	width: 100%;
@@ -71,7 +73,7 @@ nav ul li a: active {
 section.sec1 {
 	width: 100%;
 	height: 100vh;
-	background: #ccd1b5;
+	background: url(hardware.JPG);
 	background-size: cover;
 	background-position: center;
 }
